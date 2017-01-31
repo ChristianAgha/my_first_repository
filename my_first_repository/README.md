@@ -1,1 +1,0 @@
-This is the git project from day 1.
