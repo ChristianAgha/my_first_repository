@@ -1,1 +1,1 @@
-This is the git project from day 1.
+I have edited the README.md file.
